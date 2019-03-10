@@ -1,0 +1,1 @@
+./tcpproxy.py -im ridicule -om http_strip,id_extractor -ti 127.0.0.1 -tp 3333 -li 0.0.0.0 -lp 3334
